@@ -1,2 +1,2 @@
-# codele
-The programmer's version of New York Time's "Wordle" game. Users will be given a prompt and have to solve that prompt, in any language of their choosing, in the least amount of lines of code possible.
+# Codele
+The programmer's version of New York Time's "Wordle" game. Users will be given a random prompt based on the parameters given. Users will have to solve that prompt, using any programming langauge of they see fit, in the least amount of lines of code possible.
