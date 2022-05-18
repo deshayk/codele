@@ -4,3 +4,7 @@ where the user will be greeted and asked to choose a difficulty level. Then, it 
 the function that will generate a random prompt from the prompts array based on the user's
 chosen difficulty level.
 '''
+
+import random
+import prompts
+import welcome
