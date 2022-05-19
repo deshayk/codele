@@ -29,7 +29,20 @@ easy_prompts = ["Write a program that prints ‘Hello World’ to the screen.",
 ]
 
 # Medium prompts
-medium_prompts = []
+medium_prompts = ["Write a program that outputs all possibilities to put + or - or nothing between the numbers 1,2,…,9 (in this order) such that the result is 100. For example 1 + 2 + 3 - 4 + 5 + 6 + 78 + 9 = 100.",
+"Write a program that takes the duration of a year (in fractional days) for an imaginary planet as an input and produces a leap-year rule that minimizes the difference to the planet’s solar year.",                  
+"Implement a data structure for graphs that allows modification (insertion, deletion). It should be possible to store values at edges and nodes. It might be easiest to use a dictionary of (node, edgelist) to do this.",
+"Write a function that generates a DOT representation of a graph.",
+"Write a program that automatically converts English text to Morse code and vice versa.",
+"Write a program that finds the longest palindromic substring of a given string. Try to be as efficient as possible!",
+"Think of a good interface for a list. What operations do you typically need? You might want to investigate the list interface in your language and in some other popular languages for inspiration.",                  
+"Implement your list interface using a fixed chunk of memory, say an array of size 100. If the user wants to add more stuff to your list than fits in your memory you should produce some kind of error, for example you can throw an exception if your language supports that.",
+"Implement a binary heap. Once using a list as the base data structure and once by implementing a pointer-linked binary tree. Use it for implementing heap-sort.",
+"Implement an unbalanced binary search tree.",
+"Implement a balanced binary search tree of your choice. I like (a,b)-trees best.",
+]
 
 # Hard prompts
-hard_prompts = []
+hard_prompts = [
+  
+]
