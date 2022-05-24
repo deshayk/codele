@@ -7,5 +7,8 @@ class Welcome():
   print("You will have to choose between three levels of difficulty: easy, medium, and hard.")
   print("The program will give you a random programming prompt and you need to solve it in the least amount of lines of code possible.")
   
+class Difficulty():
+  print("Please choose a difficulty level: easy, medium, or hard.")  
+  
 class Generate():
   print("I will now generate a random prompt for you.")
