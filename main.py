@@ -8,3 +8,5 @@ chosen difficulty level.
 import random
 import prompts
 import welcome
+
+welcome.Welcome()
