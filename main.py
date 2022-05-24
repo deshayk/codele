@@ -7,6 +7,6 @@ chosen difficulty level.
 
 import random
 import prompts
-import welcome
+import messages
 
-welcome.Welcome()
+messages.Welcome()
