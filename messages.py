@@ -12,3 +12,6 @@ class Difficulty():
   
 class Generate():
   print("I will now generate a random prompt for you.")
+  
+class Prompt():
+  print("Here is your prompt:")
