@@ -10,3 +10,4 @@ import prompts
 import messages
 
 messages.Welcome()
+messages.Generate()
