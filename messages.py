@@ -6,3 +6,6 @@ class Welcome():
   print("The purpose of this program is to help you become a better developer.")
   print("You will have to choose between three levels of difficulty: easy, medium, and hard.")
   print("The program will give you a random programming prompt and you need to solve it in the least amount of lines of code possible.")
+  
+class Generate():
+  print("I will now generate a random prompt for you.")
