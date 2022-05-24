@@ -11,3 +11,4 @@ import messages
 
 messages.Welcome()
 messages.Generate()
+messages.Difficulty()
